@@ -50,7 +50,7 @@ apt full-upgrade
 apt install git
 ```
 ```
-git clone https://github.com/Arenktugrul/Inova-Aren-All/
+git clone https://github.com/Arenktugrul/INOVA
 ```
 
 ``` 
