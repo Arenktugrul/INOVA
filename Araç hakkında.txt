@@ -1,0 +1,114 @@
+
+## INOVA AREN ALL ## (Türkçe)
+
+>>>>>>> Bu araç çok yönlü bir amfibi aracıdır. İçerisinde 19 adet tool barındıran bu araç 
+	main dosyası üzerinden bir kontrol paneli bulunmaktadır. kontrol paneli her tool için 
+	bir gnome-terminalaçarak her toollü farlı terminallerde çalıştırıp aynı anda birden 
+	fazla işlem yapmanıza olanak tanıyor.
+
+	Eğer main dosyasından bir araç seçip herhangi bir işlem gerçekleşmiyorsa gnome-terminal 
+	yüklenmemiştir bu durumu çözebilmek için readme.md de belirtilen kurulum kodlarının linkine 
+	ulaşın ve main dosyasının bulunduğu dizinde python dosyası kurarak kodları yapıştırıp 
+	çalıştırınız eğer tekrar bir hata alıyorsanız aşağıda vermiş olduğumuz iletişim yollarından 
+	bize ulaşabilirsiniz.
+
+
+>>>>>>> Dork tarama, Sql injection kontrol, Oto dump ve Oto shell işlemleri için Hangar dosyası 
+	içerisindeki dosyaları sürekli güncellemeniz gerekmektedir.
+
+	Dork tarama işlemi yapmadan önce Hangar/dorklar/dorklar.txt içerisine dorklarınızı koyup 
+	kaydettikten sonra dork tarama işlemi yapınız. (ve sürekli aynı dorkları taramamak için 
+	dork listenizi güncelleyiniz.)
+
+	Sql injection kontrol işlemi taranan dorkların Hangar dosyasıdaki dorksonuç dosyası içerisinde 
+	kaydedilen taranmış dorkların sonuçlerı kaydedilmiştir sql kontrol aracı o dosyadan url okuması 
+	yapar dolayısıyla dork tarama işlemi yapmadan sql kontrol işlemi yapmayınız.
+
+	Oto dump ve Oto shell işlemleri sql kontrol aracının sonuç vermesinden sonra çalıştırın 
+	zira o aracın sql açıklı sitleri bulup Hangar dosya dizini altında bulunan sqlsonuç dosyasına 
+	kaydetmesinin ardından okuma işlemi yaparlar ve bu iki araç Kali Linux işletim sisteminde 
+	varsayılan olarak bulunan Sqlmap arcını kullanarak işlem yaparlar.
+
+
+
+>>>>>>> DDoS atağı toolü şayet çalışmama gibi bir durum olursa kurulum dosyasında yer alan kütüphanelerin 
+	inmiş olduğundan emin olunuz aksi taktirde araç çalışmaz bunun dışında oluşacak herhangi bir 
+	hata da bizimle iletişime geçiniz.
+
+
+
+>>>>>>> Sms bomber işlemi için kurulumda size bir web sayfası açıp işletiminize uygun olan dosyayı 
+	indirip kurmanızı istiyor onu indirip kurduğunuzda araçlar/smsbober dizinine kurulmuş ollan 
+	dosyaları taşıyın o zaman çalışma işlemi olur. eğer bu konuda tekrar hata alırsanız bizimle 
+	aşağıda belirtilmiş olan iletişim adresleri üzerinden iletişime geçiniz.
+
+
+>>>>>>> XSS kontrol aracının çalışmasındaki prensip araçlar dosyası içerisinde bulunan xsslist.txt 
+	dosyasındaki pyloadların tek tek denenmesi üzerine çalışır pyloadları değiştirmak istiyorsanız 
+	araçlar dosyası içerisinde bulunan xsslist.txt dosyasının içerisindeki pylodları değiştirin.
+
+>>>>>>> İletişim:
+
+	>>| Telegram >> @Arenk_SP	|
+	>>| Discort  >> @arenklord	|
+	>>| Discort Sunucusu  >> https://discord.gg/inovaaktif	|
+
+
+
+
+
+## INOVA AREN ALL ## (English)
+
+>>>>>>> This is a versatile amphibious vehicle. This vehicle contains 19 tools 
+	There is a control panel through the main file. control panel for each tool 
+	open a gnome-terminal so you can run each tool in different terminals and run multiple 
+	allows you to do more operations.
+
+	If you select a tool from the main file and nothing happens, gnome-terminal 
+	is not installed, in order to solve this situation, you need to follow the link to the installation codes specified in the readme.md. 
+	and install a python file in the directory where the main file is located and paste the codes 
+	If you get an error again, please contact us via the communication paths we have given below. 
+	you can contact us.
+
+
+>>>>>>> Hangar file for Dork scanning, Sql injection control, Auto dump and Auto shell operations 
+	you need to continuously update the files in it.
+
+	Put your dorks in Hangar/dorks/dorks/dorks.txt before performing a dork scan. 
+	(and to avoid scanning the same dorks over and over again 
+	update your dork list).
+
+	Sql injection control process in the dork result file in the Hangar file of the scanned dorks 
+	the results of the saved scanned dorks have been saved sql check tool read the url from that file 
+	Therefore, do not perform sql check operation without performing dork scan operation.
+
+	Run auto dump and auto shell operations after the sql checker returns results 
+	because that tool can find sites with sql vulnerabilities and add them to the sqlresult file under the Hangar file directory. 
+	and then read after saving, and these two tools are used in the Kali Linux operating system. 
+	by using the Sqlmap arc which is available by default.
+
+
+
+>>>>>>> If the DDoS attack tool does not work, the libraries in the installation file 
+	otherwise the vehicle will not start, otherwise any other 
+	Please contact us at error.
+
+
+
+>>>>>>> In the installation for the sms bomber process, we will open a web page for you and download the file suitable for your operating 
+	it asks you to download and install it, when you download and install it, it will be installed in the tools/smsbober directory. 
+	move the files then it will work. if you get errors about this again contact us 
+	Please contact us via the contact addresses given below.
+
+
+>>>>>>> The principle of operation of the XSS checker is xsslist.txt in the tools file 
+	works by trying the pyloads in the file one by one if you want to change the pyloads 
+	Change the pylodes in the xsslist.txt file in the tools file.
+
+>>>>>>> Contact:
+
+	>>| Telegram >> @Arenk_SP |
+	>>| Discort >> @arenklord |
+	>>| Discort Server >> https://discord.gg/inovaaktif |
+
+See you
