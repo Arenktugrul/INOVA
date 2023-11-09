@@ -121,7 +121,7 @@ https://r.resimlink.com/M0YjBuyNOzZ.png
 ```
 >>| Discort Server >>
 ```
-[ https://discord.gg/inovaaktif](https://discord.com/invite/HzGHUtM3PF)
+https://discord.com/invite/HzGHUtM3PF
 ```
  
 ----------------------------------------------------------------------------------------
